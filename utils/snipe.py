@@ -10,38 +10,38 @@ OWNER_API = "https://api-mainnet.rarible.com/marketplace/api/v4/items/"
 collection_map = {
     "BAYC": {
             "address":"0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
-            "owners": "./owners_BAYC.csv",
-            "orders": "./orders_BAYC.csv",
+            "owners": "./data/owners_BAYC.csv",
+            "orders": ".//data/orders_BAYC.csv",
             "num": 10000
         },
     "Meebits": {
             "address":"0x7bd29408f11d2bfc23c34f18275bbf23bb716bc7",
-            "owners": "./owners_meebits.csv",
-            "orders": "./orders_meebits.csv",
+            "owners": "./data/owners_meebits.csv",
+            "orders": "./data/orders_meebits.csv",
             "num": 20000
         },
     "Azuki": {
         "address":"0xed5af388653567af2f388e6224dc7c4b3241c544",
-        "owners": "./owners_azuki.csv",
-        "orders": "./orders_azuki.csv",
+        "owners": "./data/owners_azuki.csv",
+        "orders": "../data/orders_azuki.csv",
         "num": 10000
         },
     "CryptoCoven": {
             "address":"0x5180db8f5c931aae63c74266b211f580155ecac8",
-            "owners": "./owners_crypto_coven.csv",
-            "orders": "./orders_crypto_coven.csv",
+            "owners": "./data/owners_crypto_coven.csv",
+            "orders": "./data/orders_crypto_coven.csv",
             "num": 9999
         },
     "WoW": {
             "address":"0xe785e82358879f061bc3dcac6f0444462d4b5330",
-            "owners": "./owners_wow.csv",
-            "orders": "./orders_wow.csv",
+            "owners": "./data/owners_wow.csv",
+            "orders": "./data/orders_wow.csv",
             "num": 10000
         },
     "Doodle": {
             "address":"0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
-            "owners": "./owners_doodle.csv",
-            "orders": "./orders_doodle.csv",
+            "owners": "./data/owners_doodle.csv",
+            "orders": "./data/orders_doodle.csv",
             "num": 10000
         },
 
